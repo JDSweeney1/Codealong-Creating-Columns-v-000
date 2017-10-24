@@ -92,17 +92,17 @@ img, video, audio {
 .col-1 {
   float: left;
   width: 32%;
-  backgound: #ccc;
+  background: #ccc;
 }
 
 .col-2 {
   float: left;
   width: 66%;
-  backgound: #ccc;
+  background: #ccc;
 }
 
 .col-3 {
-  backgound: #ccc;
+  background: #ccc;
 }
 
 [class*="col-"] {
