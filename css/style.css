@@ -71,6 +71,11 @@ figcaption {
   color: red;
 }
 
+/* media */
+
+img, videp, audio {
+  max-width: 100%;
+}
 /*     LAYOUT    */
 * {
  -  -webkit-box-sizing: border-box;
