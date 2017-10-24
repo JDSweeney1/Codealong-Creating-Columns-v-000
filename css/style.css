@@ -73,7 +73,7 @@ figcaption {
 
 /* media */
 
-img, videp, audio {
+img, video, audio {
   max-width: 100%;
 }
 /*     LAYOUT    */
